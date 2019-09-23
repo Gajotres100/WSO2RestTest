@@ -5,7 +5,7 @@
     <artifact name="GajoRestCsp" groupId="com.example.GajoTest.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
         <file>src/main/synapse-config/api/GajoRestCsp.xml</file>
     </artifact>
-    <artifact name="Proba" groupId="com.example.GajoTest.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
-        <file>src/main/synapse-config/api/Proba.xml</file>
+    <artifact name="StoreContextPropertyes" groupId="com.example.GajoTest.sequence" version="1.0.0" type="synapse/sequence" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/sequences/StoreContextPropertyes.xml</file>
     </artifact>
 </artifacts>
