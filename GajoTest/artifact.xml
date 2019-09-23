@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="CspRestApi" groupId="com.example.GajoTest.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/CspRestApi.xml</file>
+    </artifact>
+    <artifact name="GajoRestCsp" groupId="com.example.GajoTest.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/GajoRestCsp.xml</file>
+    </artifact>
+    <artifact name="Proba" groupId="com.example.GajoTest.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/Proba.xml</file>
+    </artifact>
+</artifacts>
